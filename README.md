@@ -1,1 +1,1 @@
-# jyothi.gitbub.io
+# jyothi.github.io
